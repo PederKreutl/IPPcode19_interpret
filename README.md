@@ -10,7 +10,7 @@
 - ***`"test.php"`*** — Implementácie testov pre skripty parse.php a interpret.py
 
 ## Popis
-Cielom projektu bolo navrhnúť, implementovať, dokumentovať a otestovať sadu skriptov pre interpretáciu neštrukturovaného
+Cieľom projektu bolo navrhnúť, implementovať, dokumentovať a otestovať sadu skriptov pre interpretáciu neštrukturovaného
 imperatívneho jazyka IPPcode19. Projekt se skladá z dvoch úloh.
 Prvá úloha sa skladá zo skriptu parse.php v jazyku PHP 7.3 a dokumentácie
 k tomuto skriptu. Druhá úloha se skládá zo skriptu interpret.py v jazyku Python
