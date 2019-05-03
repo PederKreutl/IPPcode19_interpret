@@ -7,7 +7,7 @@
 - ***`"parse.php"`*** — Implementácia lexikálnej/syntaktickej analýzy
 - ***`"readme1.pdf"`*** — Podrobná dokumentácia skriptu parse.php
 - ***`"readme2.pdf"`*** — Podrobná dokumentácia skriptov interpret.py a test.php
-- ***`"test.php"`*** — Implementácia scénarov
+- ***`"test.php"`*** — Implementácie testov pre skripty parse.php a interpret.py
 
 ## Popis
 Cielom projektu bolo navrhnúť, implementovať, dokumentovať a otestovať sadu skriptov pre interpretáciu neštrukturovaného
