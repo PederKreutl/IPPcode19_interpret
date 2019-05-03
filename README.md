@@ -1,2 +1,2 @@
-# Interpret školského zdrojovové kódu IPPcode19
+# Interpret výukového zdrojovové kódu IPPcode19
 
